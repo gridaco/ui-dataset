@@ -18,6 +18,8 @@ contact current collaborator for design file access and contributing.
 ## Labeling standard
 It's labelling terminology and definition is based on [Reflect](https://reflect.bridged.xyz) design system.
 
+## UI Dataset Generator
+UI Dataset generator plugin based on [reflect](https://reflect.bridged.xyz) is available at [assistant](https://github.com/bridgedxyz/assistant)
 
 ## Tools
 - [ui labeller tool](https://github.com/bridgedxyz/ui-labeller)
