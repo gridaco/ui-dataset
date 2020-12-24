@@ -1,0 +1,28 @@
+Add *
+Add customers
+Add a customer
+OK
+Next
+Confirm
+Complete
+Create *
+Create
+Creaet new teams
+Create new Workspace
+Continue
+Share
+Skip
+Switch
+Send
+Send *
+Send invite link
+Cancel
+View All
+Order
+Go *
+Goto *
+Register
+Register *
+Send Payment PDF to email
+Select
+Write new note
