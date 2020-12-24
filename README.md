@@ -2,9 +2,12 @@
 A pre labelled dataset for ui element / layout detection
 
 
-## Disclaimer
-The origin image labelled in this dataset, the origin image might be licensed it self, as noticed.
-The action of "labelling" and "label" is done by the community, taking no authority, free to use.
+## What do we offer?
+- More than 20,000+ realworld application screenshots.
+- More thank 100,000+ labelled buttons preset with tons of variants
+- More thank 10,000 NLP tokens text classification used in ui designs
+- Open figma source maintained by bridged.xyz
+
 
 
 ## Labeled source
@@ -31,3 +34,8 @@ If you are a company / individual using this dataset for your own model, you mus
 
 ## I'm looking for the model
 The very model trained and officially maintianed is available with [context engine](https://github.com/bridgedxyz/context)
+
+
+## Disclaimer
+The origin image labelled in this dataset, the origin image might be licensed it self, as noticed.
+The action of "labelling" and "label" is done by the community, taking no authority, free to use.
