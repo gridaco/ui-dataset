@@ -1,0 +1,5 @@
+.DS_Store
+
+
+# internal data source that should not be included on git repository
+**.internal.**
