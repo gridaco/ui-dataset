@@ -4,8 +4,8 @@ A pre labelled dataset for ui element / layout detection
 
 ## What do we offer?
 - More than 20,000+ realworld application screenshots.
-- More thank 100,000+ labelled buttons preset with tons of variants
-- More thank 10,000 NLP tokens text classification used in ui designs
+- More than 100,000+ labelled buttons preset with tons of variants
+- More than 10,000 NLP tokens text classification used in ui designs
 - Open figma source maintained by bridged.xyz
 
 
