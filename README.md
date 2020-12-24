@@ -19,7 +19,7 @@ contact current collaborator for design file access and contributing.
 It's labelling terminology and definition is based on [Reflect](https://reflect.bridged.xyz) design system.
 
 ## UI Dataset Generator
-UI Dataset generator plugin based on [reflect](https://reflect.bridged.xyz) is available at [assistant](https://github.com/bridgedxyz/assistant)
+UI Dataset generator plugin based on [reflect](https://reflect.bridged.xyz) is available at [assistant](https://github.com/bridgedxyz/assistant) with [reflect-ui-generator](https://github.com/bridgedxyz/reflect-ui-generator)
 
 ## Tools
 - [ui labeller tool](https://github.com/bridgedxyz/ui-labeller)
