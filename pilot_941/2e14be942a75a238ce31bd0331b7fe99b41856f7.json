@@ -1,0 +1,26 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "버튼",
+            "points": [
+                [
+                    37.146983311938385,
+                    164.39281129653403
+                ],
+                [
+                    109.03401797175866,
+                    233.71245186136073
+                ]
+            ],
+            "shape_type": "rectangle",
+            "labels": [],
+            "flags": {}
+        }
+    ],
+    "imagePath": "2e14be942a75a238ce31bd0331b7fe99b41856f7.png",
+    "imageWidth": 1125,
+    "imageHeight": 2436,
+    "imageData": null
+}
