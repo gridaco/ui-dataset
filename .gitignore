@@ -1,4 +1,6 @@
 .DS_Store
+.direnv
+.envrc
 
 
 # internal data source that should not be included on git repository

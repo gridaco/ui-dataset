@@ -1,0 +1,49 @@
+<annotation>
+    <folder>eval</folder>
+    <filename>10946a9ab06bbcf043783259b0ce9418437cd360_png.rf.950e81280346b2e840dfebd632c1a17f.jpg</filename>
+    <size>
+        <width>945</width>
+        <height>2048</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Text Fields</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>649</ymin>
+            <xmax>868</xmax>
+            <ymax>1734</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Text Fields</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>514</ymin>
+            <xmax>866</xmax>
+            <ymax>598</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>71</xmin>
+            <ymin>1781</ymin>
+            <xmax>872</xmax>
+            <ymax>1891</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>812</xmin>
+            <ymin>176</ymin>
+            <xmax>872</xmax>
+            <ymax>245</ymax>
+        </bndbox>
+    </object>
+</annotation>

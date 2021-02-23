@@ -1,0 +1,19 @@
+<annotation>
+    <folder>training</folder>
+    <filename>e30172ff9d43eaf687371cc4773823554b6384e2.jpeg</filename>
+    <size>
+        <width>1125</width>
+        <height>2436</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>134</ymin>
+            <xmax>135</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>
+</annotation>
