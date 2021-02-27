@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0fa75d60e9b826c2929e824c591ae2dcc5a23398_png.rf.f9ef2d28d06a9cb29d3d1d968e5eb10c.jpg</filename>
+	<path>0fa75d60e9b826c2929e824c591ae2dcc5a23398_png.rf.f9ef2d28d06a9cb29d3d1d968e5eb10c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Page Controls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>354</xmin>
+			<xmax>596</xmax>
+			<ymin>1866</ymin>
+			<ymax>1955</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>3b8c7cdb8d19feb078657c2eff7826667f212971_png.rf.0604e2212f503df19a110b80d7e785df.jpg</filename>
+	<path>3b8c7cdb8d19feb078657c2eff7826667f212971_png.rf.0604e2212f503df19a110b80d7e785df.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Page Controls</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>394</xmin>
+			<xmax>538</xmax>
+			<ymin>1506</ymin>
+			<ymax>1568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buttons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>901</xmax>
+			<ymin>1613</ymin>
+			<ymax>1813</ymax>
+		</bndbox>
+	</object>
+</annotation>

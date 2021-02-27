@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0a9eff58edcd4f0abec723f49202ed3c64c22ff5_png.rf.b9c654d22050f26d4391f27d2845ddd8.jpg</filename>
+	<path>0a9eff58edcd4f0abec723f49202ed3c64c22ff5_png.rf.b9c654d22050f26d4391f27d2845ddd8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rating</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>440</xmin>
+			<xmax>656</xmax>
+			<ymin>1203</ymin>
+			<ymax>1262</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>4d557f60ee8ee25156e1eed499b763432962b5c3_jpeg.rf.7436921e47e41b593ce1ea5fd4c37917.jpg</filename>
+	<path>4d557f60ee8ee25156e1eed499b763432962b5c3_jpeg.rf.7436921e47e41b593ce1ea5fd4c37917.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Text Fields</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>870</xmax>
+			<ymin>1036</ymin>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Buttons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>726</xmin>
+			<xmax>916</xmax>
+			<ymin>121</ymin>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

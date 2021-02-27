@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>0de387018d783b98ea415f963777ac25d5cb531b_png.rf.eaf1aa80096e59246f83fe9bb747401e.jpg</filename>
+	<path>0de387018d783b98ea415f963777ac25d5cb531b_png.rf.eaf1aa80096e59246f83fe9bb747401e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Buttons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>550</xmin>
+			<xmax>747</xmax>
+			<ymin>84</ymin>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>428</xmin>
+			<xmax>628</xmax>
+			<ymin>753</ymin>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+</annotation>

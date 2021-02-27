@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>0b945534b21aac966a9e6893b791695a46a7efa3_png.rf.09bc15e7373c232f6a2f024cd60db6a4.jpg</filename>
+	<path>0b945534b21aac966a9e6893b791695a46a7efa3_png.rf.09bc15e7373c232f6a2f024cd60db6a4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sliders</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>795</xmax>
+			<ymin>1436</ymin>
+			<ymax>1584</ymax>
+		</bndbox>
+	</object>
+</annotation>
