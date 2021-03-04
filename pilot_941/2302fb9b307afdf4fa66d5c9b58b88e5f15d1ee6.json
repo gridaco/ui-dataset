@@ -1,0 +1,74 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "버튼",
+            "points": [
+                [
+                    98.51127819548873,
+                    1563.7443609022557
+                ],
+                [
+                    730.0902255639098,
+                    1667.1278195488721
+                ]
+            ],
+            "shape_type": "rectangle",
+            "labels": [],
+            "flags": {}
+        },
+        {
+            "label": "Progress Indicator",
+            "points": [
+                [
+                    132.34586466165416,
+                    106.97744360902257
+                ],
+                [
+                    686.8571428571429,
+                    146.4511278195489
+                ]
+            ],
+            "shape_type": "rectangle",
+            "labels": [],
+            "flags": {}
+        },
+        {
+            "label": "버튼",
+            "points": [
+                [
+                    726.3308270676692,
+                    101.33834586466166
+                ],
+                [
+                    803.3984962406015,
+                    152.0902255639098
+                ]
+            ],
+            "shape_type": "rectangle",
+            "labels": [],
+            "flags": {}
+        },
+        {
+            "label": "버튼",
+            "points": [
+                [
+                    17.684210526315816,
+                    93.81954887218046
+                ],
+                [
+                    79.71428571428572,
+                    159.60902255639098
+                ]
+            ],
+            "shape_type": "rectangle",
+            "labels": [],
+            "flags": {}
+        }
+    ],
+    "imagePath": "2302fb9b307afdf4fa66d5c9b58b88e5f15d1ee6.png",
+    "imageWidth": 828,
+    "imageHeight": 1792,
+    "imageData": null
+}

@@ -1,11 +1,5 @@
-# Raw screenshot data of realworld applications.
+# UI Screenshot data
 
+Great thanks to [mobbin](https://mbbin.design)! the raw screenshot data was thankfully provided by mobbin.
 
-### mobbin.design
-thanks to mobbin.design, we were able to start off easly on this project. there are about 20,000 screen shot data, privately, not opended.
-
-> no worries, we provide other screen shot data oponned, free to use. this screenshots are collected by crawlers, not captured manually by human.
-
-### clickclick.design
-community based, open screenshot data source.
-the raw data is updated in monthly basis
+there are 2,000 preview raw sets of screenshots, the full data set will be provided soon.
