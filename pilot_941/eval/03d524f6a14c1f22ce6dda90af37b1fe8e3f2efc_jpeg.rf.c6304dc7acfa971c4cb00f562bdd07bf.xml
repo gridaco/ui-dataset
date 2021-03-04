@@ -1,0 +1,19 @@
+<annotation>
+    <folder>eval</folder>
+    <filename>03d524f6a14c1f22ce6dda90af37b1fe8e3f2efc_jpeg.rf.c6304dc7acfa971c4cb00f562bdd07bf.jpg</filename>
+    <size>
+        <width>945</width>
+        <height>2048</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>1849</ymin>
+            <xmax>99</xmax>
+            <ymax>1911</ymax>
+        </bndbox>
+    </object>
+</annotation>

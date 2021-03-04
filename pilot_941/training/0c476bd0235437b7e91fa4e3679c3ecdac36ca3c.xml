@@ -1,0 +1,39 @@
+<annotation>
+    <folder>training</folder>
+    <filename>0c476bd0235437b7e91fa4e3679c3ecdac36ca3c.png</filename>
+    <size>
+        <width>1125</width>
+        <height>2436</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>FAB (Floating Action Button)</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>670</xmin>
+            <ymin>1951</ymin>
+            <xmax>1051</xmax>
+            <ymax>2117</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>977</xmin>
+            <ymin>129</ymin>
+            <xmax>1108</xmax>
+            <ymax>252</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>129</ymin>
+            <xmax>132</xmax>
+            <ymax>251</ymax>
+        </bndbox>
+    </object>
+</annotation>

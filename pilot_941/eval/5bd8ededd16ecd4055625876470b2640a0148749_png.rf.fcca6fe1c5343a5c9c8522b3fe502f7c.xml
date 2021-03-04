@@ -1,0 +1,59 @@
+<annotation>
+    <folder>eval</folder>
+    <filename>5bd8ededd16ecd4055625876470b2640a0148749_png.rf.fcca6fe1c5343a5c9c8522b3fe502f7c.jpg</filename>
+    <size>
+        <width>828</width>
+        <height>1792</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>FAB (Floating Action Button)</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>1576</ymin>
+            <xmax>344</xmax>
+            <ymax>1687</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>FAB (Floating Action Button)</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>359</xmin>
+            <ymin>1580</ymin>
+            <xmax>470</xmax>
+            <ymax>1689</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>FAB (Floating Action Button)</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>489</xmin>
+            <ymin>1574</ymin>
+            <xmax>598</xmax>
+            <ymax>1693</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>49</xmin>
+            <ymin>114</ymin>
+            <xmax>109</xmax>
+            <ymax>164</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Buttons</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>725</xmin>
+            <ymin>114</ymin>
+            <xmax>782</xmax>
+            <ymax>157</ymax>
+        </bndbox>
+    </object>
+</annotation>
