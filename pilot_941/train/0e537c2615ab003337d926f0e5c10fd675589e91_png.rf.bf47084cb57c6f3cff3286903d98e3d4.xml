@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>0e537c2615ab003337d926f0e5c10fd675589e91_png.rf.bf47084cb57c6f3cff3286903d98e3d4.jpg</filename>
+	<path>0e537c2615ab003337d926f0e5c10fd675589e91_png.rf.bf47084cb57c6f3cff3286903d98e3d4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Progress indicators</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>419</xmin>
+			<xmax>899</xmax>
+			<ymin>1046</ymin>
+			<ymax>1109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Progress indicators</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>899</xmax>
+			<ymin>805</ymin>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+</annotation>

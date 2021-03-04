@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>db166caa102ca2b4716dc9e3431d9ac9c906f215_jpeg.rf.988e2938fa2f104e7b546534a522f894.jpg</filename>
+	<path>db166caa102ca2b4716dc9e3431d9ac9c906f215_jpeg.rf.988e2938fa2f104e7b546534a522f894.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>796</xmin>
+			<xmax>917</xmax>
+			<ymin>1821</ymin>
+			<ymax>1937</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>793</xmin>
+			<xmax>916</xmax>
+			<ymin>1688</ymin>
+			<ymax>1806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>797</xmin>
+			<xmax>918</xmax>
+			<ymin>1566</ymin>
+			<ymax>1676</ymax>
+		</bndbox>
+	</object>
+</annotation>

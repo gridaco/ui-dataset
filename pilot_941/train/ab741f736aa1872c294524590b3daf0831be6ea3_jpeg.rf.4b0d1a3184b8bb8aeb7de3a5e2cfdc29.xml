@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>ab741f736aa1872c294524590b3daf0831be6ea3_jpeg.rf.4b0d1a3184b8bb8aeb7de3a5e2cfdc29.jpg</filename>
+	<path>ab741f736aa1872c294524590b3daf0831be6ea3_jpeg.rf.4b0d1a3184b8bb8aeb7de3a5e2cfdc29.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>946</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>323</xmax>
+			<ymin>965</ymin>
+			<ymax>1082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>387</xmin>
+			<xmax>524</xmax>
+			<ymin>971</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FAB -Floating Action Button-</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>779</xmin>
+			<xmax>887</xmax>
+			<ymin>81</ymin>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Progress indicators</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>877</xmax>
+			<ymin>1834</ymin>
+			<ymax>1956</ymax>
+		</bndbox>
+	</object>
+</annotation>
