@@ -1,0 +1,60 @@
+item {
+    name: "Buttons",
+    id: 1,
+    display_name: "Buttons"
+}
+item {
+    name: "Checkboxes",
+    id: 2,
+    display_name: "Checkboxes"
+}
+item {
+    name: "FAB -Floating Action Button-",
+    id: 3,
+    display_name: "FAB -Floating Action Button-"
+}
+item {
+    name: "Page Controls",
+    id: 4,
+    display_name: "Page Controls"
+}
+item {
+    name: "Pickers",
+    id: 5,
+    display_name: "Pickers"
+}
+item {
+    name: "Progress indicators",
+    id: 6,
+    display_name: "Progress indicators"
+}
+item {
+    name: "Radio buttons",
+    id: 7,
+    display_name: "Radio buttons"
+}
+item {
+    name: "Rating",
+    id: 8,
+    display_name: "Rating"
+}
+item {
+    name: "Sliders",
+    id: 9,
+    display_name: "Sliders"
+}
+item {
+    name: "Steppers",
+    id: 10,
+    display_name: "Steppers"
+}
+item {
+    name: "Switches",
+    id: 11,
+    display_name: "Switches"
+}
+item {
+    name: "Text Fields",
+    id: 12,
+    display_name: "Text Fields"
+}
